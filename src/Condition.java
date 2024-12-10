@@ -20,7 +20,7 @@ public class Condition {
             case "Male":
                 System.out.println("Hi bro");
                 break;
-            case y:
+            case "Female":
                 System.out.println("Hi sis");
                 break;
             default:
