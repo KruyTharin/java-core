@@ -1,6 +1,5 @@
 import person.ExamplePerson;
 import person.Person;
-
 import java.util.List;
 
 public class Main {
@@ -8,5 +7,6 @@ public class Main {
         List<Person> filterPeopleByAge =  ExamplePerson.filterPeople(10);
         System.out.println(filterPeopleByAge);
         System.out.println("Hello World!");
+
     }
 }
